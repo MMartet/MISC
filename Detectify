@@ -1,1 +1,16 @@
+--- REMINDERS ---
+DAST = Analyse dynamique.
+
+--- DETECTIFY ---
 Detectify est avant tout une plateforme d'External Attack Surface Management (EASM) couplée à du scan de vulnérabilités applicatives (DAST).
+Application Scanning & API Scanning : Analyse dynamique (DAST) d'applications web (y compris modernes/SPA) et d'API (REST, GraphQL) avec tests de type OWASP Top 10 et failles métier,
+complétée par des options de scan interne, de conformité (comme PCI ASV) et des intégrations CI/CD, Jira, Slack ou SIEM/SOAR.
+
+
+-- Solution SaaS --
+La solution est SaaS: on reçoit un mail qui indique un rapport (sur un ensemble de site nous appartenant).
+En cliquant dessus, on est renvoyé vers leur site web.
+Et j'ai pas les droits.
+
+==> DONC A PRIORI TRES PUISSANT
+==> Pour moi j'en sais rien.
