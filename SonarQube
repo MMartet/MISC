@@ -24,6 +24,10 @@ Détection des mauvaises configurations avant déploiement : conteneurs tournant
 
 3- Gouvernance CI/CD et blocage des livraisons (Quality Gates)
 
+
 Éditions : Une version Community Build gratuite et open source couvre la qualité de code et les règles de base sur les langages courants ;
 les éditions Developer, Enterprise et Data Center ajoutent l'analyse de flux de données (Taint Analysis approfondie), l'analyse des branches/Pull Requests,
 le support de langages supplémentaires (C/C++, Swift, ABAP, etc.) et les rapports de conformité (OWASP Top 10, PCI DSS, CWE Top 25).
+
+C'est précisément pour cette raison que l'absence d'analyse de PR (Pull Request) dans SonarQube Community est un frein en équipe :
+les retours de sécurité n'apparaissent qu'après la fusion sur main, au lieu de bloquer la PR avant l'intégration.
