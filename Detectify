@@ -1,4 +1,5 @@
 --- REMINDERS ---
+SAST (Static Application Security Testing) & Qualité de code (Boîte blanche) = Outil comme SonarQube.
 DAST = Analyse dynamique.
 
 --- DETECTIFY ---
