@@ -12,13 +12,13 @@
 1.2 - Analyse de flux de données (Taint Analysis) :
   SonarQube trace le parcours d'une donnée non fiable (une entrée utilisateur) jusqu'à une fonction sensible (sink) à travers plusieurs fichiers et appels de fonctions pour vérifier si elle est correctement assainie.
 
-
 1.3- Détection des secrets
-
-
 
 
 2- Sécurisation de l'Infrastructure as Code (IaC)
 Analyse des fichiers Terraform, CloudFormation, Kubernetes (YAML), Helm, Dockerfiles et Ansible.
-
 Détection des mauvaises configurations avant déploiement : conteneurs tournant en root, buckets S3 exposés publiquement, ports d'administration ouverts (0.0.0.0/0), ou absence de chiffrement au repos.
+
+
+3- Gouvernance CI/CD et blocage des livraisons (Quality Gates)
+
