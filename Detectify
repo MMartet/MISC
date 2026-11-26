@@ -17,6 +17,9 @@ Et j'ai pas les droits.
 ==> Pour moi j'en sais rien.
 
 
-*** POSITIONNEMENT SUR LE MARCHE ***
+*** POSITIONNEMENT SUR LE MARCHE DAST ***
 PortSwigger Burp Suite est jugé meilleur que Detectify.
 C'est un des leaders.
+
+*** EASM (Surface d'attaque externe) ***
+Sur la partie découverte d'actifs externes à grande échelle, Detectify fait face aux grands éditeurs d'infrastructure et d'EDR/XDR :   Palo Alto Cortex Xpanse.
